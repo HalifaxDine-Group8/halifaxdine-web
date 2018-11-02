@@ -1,0 +1,25 @@
+{
+  "name": "halifaxdine-web",
+  "version": "1.0.0",
+  "description": "HalifaxDine web application including server API and client web-pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalifaxDine-Group8/halifaxdine-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalifaxDine-Group8/halifaxdine-web/issues"
+  },
+  "homepage": "https://github.com/HalifaxDine-Group8/halifaxdine-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "pug": "^2.0.3"
+  }
+}
